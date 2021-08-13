@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "07_BlazorHosted.Shared/1.0.0": {
+        "runtime": {
+          "07_BlazorHosted.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07_BlazorHosted.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

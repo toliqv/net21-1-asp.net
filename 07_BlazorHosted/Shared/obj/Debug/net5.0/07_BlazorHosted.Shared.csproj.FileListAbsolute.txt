@@ -1,0 +1,12 @@
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\bin\Debug\net5.0\07_BlazorHosted.Shared.deps.json
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\bin\Debug\net5.0\07_BlazorHosted.Shared.dll
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\bin\Debug\net5.0\ref\07_BlazorHosted.Shared.dll
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\bin\Debug\net5.0\07_BlazorHosted.Shared.pdb
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\obj\Debug\net5.0\07_BlazorHosted.Shared.csproj.AssemblyReference.cache
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\obj\Debug\net5.0\07_BlazorHosted.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\obj\Debug\net5.0\07_BlazorHosted.Shared.AssemblyInfoInputs.cache
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\obj\Debug\net5.0\07_BlazorHosted.Shared.AssemblyInfo.cs
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\obj\Debug\net5.0\07_BlazorHosted.Shared.csproj.CoreCompileInputs.cache
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\obj\Debug\net5.0\07_BlazorHosted.Shared.dll
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\obj\Debug\net5.0\ref\07_BlazorHosted.Shared.dll
+C:\NET21-1\aspnet\07_BlazorHosted\07_BlazorHosted\Shared\obj\Debug\net5.0\07_BlazorHosted.Shared.pdb

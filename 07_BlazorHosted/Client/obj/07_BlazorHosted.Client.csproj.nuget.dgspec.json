@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Client\\07_BlazorHosted.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Client\\07_BlazorHosted.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Client\\07_BlazorHosted.Client.csproj",
+        "projectName": "07_BlazorHosted.Client",
+        "projectPath": "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Client\\07_BlazorHosted.Client.csproj",
+        "packagesPath": "C:\\Users\\tomlin\\.nuget\\packages\\",
+        "outputPath": "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tomlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Shared\\07_BlazorHosted.Shared.csproj": {
+                "projectPath": "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Shared\\07_BlazorHosted.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.7, 5.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Shared\\07_BlazorHosted.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Shared\\07_BlazorHosted.Shared.csproj",
+        "projectName": "07_BlazorHosted.Shared",
+        "projectPath": "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Shared\\07_BlazorHosted.Shared.csproj",
+        "packagesPath": "C:\\Users\\tomlin\\.nuget\\packages\\",
+        "outputPath": "C:\\NET21-1\\aspnet\\07_BlazorHosted\\07_BlazorHosted\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tomlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
